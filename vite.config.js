@@ -4,8 +4,13 @@ import handlebars from 'vite-plugin-handlebars'
 import { ViteImageOptimizer } from 'vite-plugin-image-optimizer'
 import { resolve } from 'path'
 
-const base = process.env.VITE_BASE ?? '/Kristys_Cooking_Adventures/'
-const outDir = process.env.VITE_BASE ? 'dist' : 'docs'
+const isVercel = process.env.VERCEL === '1' || process.env.VERCEL === 'true' || !!process.env.VERCEL_URL
+const base = isVercel ? '/' : '/Kristys_Cooking_Adventures/'
+const outDir = isVercel ? 'dist' : 'docs'
+
+console.log('VERCEL ENV:', process.env.VERCEL)
+console.log('VERCEL_URL:', process.env.VERCEL_URL)
+console.log('BASE IS:', base)
 
 export default defineConfig({
   base,
