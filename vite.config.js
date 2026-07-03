@@ -4,7 +4,7 @@ import handlebars from 'vite-plugin-handlebars'
 import { ViteImageOptimizer } from 'vite-plugin-image-optimizer'
 import { resolve } from 'path'
 
-const base = '/Kristys_Cooking_Adventures/'
+const base: process.env.VERCEL ? '/' : '/Kristys_Cooking_Adventures/'
 
 export default defineConfig({
   base,

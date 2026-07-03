@@ -894,6 +894,41 @@
   ],
   "output": "A creamy, flavorful orzo dish with smoked salmon and colorful vegetables — easy, comforting, and perfect for busy evenings.",
   "tip": "Use frozen vegetables to save time — no chopping needed. You can also swap salmon for chicken or minced meat; just cook those earlier in the process."
+},
+
+{
+  "slug": "gnocchi-bacon-vegetables",
+  "title": "Gnocchi with Bacon and Vegetables",
+  "image": "gnocchi.jpg",
+  "imageAlt": "Gnocchi with bacon and vegetables",
+  "category": [
+    "easy",
+    "main-dishes"
+  ],
+  "ingredients": [
+    "500 g gnocchi",
+    "150 g bacon pieces",
+    "Vegetables of choice (fresh or frozen)",
+    "1 onion, chopped",
+    "2 garlic cloves, minced",
+    "1–2 carrots, sliced",
+    "1 bell pepper, diced",
+    "100 g peas",
+    "Cooking cream (optional) or any sauce of choice",
+  ],
+  "steps": [
+    "Heat a frying pan.",
+    "Add the bacon pieces and cook UNTIL lightly crispy.",
+    "Add the gnocchi and fry for a few minutes UNTIL golden.",
+    "Prepare the vegetables: chop onion, garlic, carrots, and bell pepper. Add them to the pan.",
+    "Add peas (or use frozen mixed vegetables to skip chopping).",
+    "Season with paprika powder, Italian herbs, and black pepper.",
+    "OPTIONAL: Add cooking cream or another sauce to make the dish richer.",
+    "Let everything cook for a few minutes UNTIL vegetables are tender and flavors combine.",
+    "Taste and adjust seasoning. Serve warm."
+  ],
+  "output": "A simple, comforting gnocchi dish with crispy bacon and colorful vegetables. Easy to customize and perfect for busy days.",
+  "tip": "Use frozen vegetables to save time. No chopping needed and just as tasty."
 }
 
 
