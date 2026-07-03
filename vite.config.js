@@ -65,6 +65,10 @@ export default defineConfig({
         wrapPizza: resolve(__dirname, 'recipe/wrap-pizza.html'),
         orzoSmokedSalmonVegetables: resolve(__dirname, 'recipe/orzo-smoked-salmon-vegetables.html'),
         gnocchiBaconVegetables: resolve(__dirname, 'recipe/gnocchi-bacon-vegetables.html'),
+        easyicecream: resolve(__dirname, 'recipe/easy-healthy-ice-cream.html'),
+        kruidennoten: resolve(__dirname, 'recipe/kruidennoten.html'),
+        kruidnotencheesecake: resolve(__dirname, 'recipe/kruidnoten-cheesecake.html'),
+        strawberrycheesecake: resolve(__dirname, 'recipe/strawberry-cheesecake.html'),
 
         bakingDesserts: resolve(__dirname, 'categories/baking-desserts.html'),
         easy: resolve(__dirname, 'categories/easy.html'),

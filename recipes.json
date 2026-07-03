@@ -929,7 +929,176 @@
   ],
   "output": "A simple, comforting gnocchi dish with crispy bacon and colorful vegetables. Easy to customize and perfect for busy days.",
   "tip": "Use frozen vegetables to save time. No chopping needed and just as tasty."
+},
+{
+  "slug": "easy-healthy-ice-cream",
+  "title": "Easy Healthy Ice Cream",
+  "image": "strawberrybananicecream.jpg",
+  "imageAlt": "Easy healthy ice cream",
+  "category": [
+    "easy",
+    "quick-easy", "baking-desserts"
+  ],
+  "ingredients": [
+    "4 bananas, sliced and frozen (prepare a day ahead)",
+    "150–200 g frozen strawberries",
+    "25 ml heavy cream (or coconut milk)",
+    "Splash of vanilla extract"
+  ],
+  "steps": [
+    "Slice 4 bananas and freeze them at least one day in advance.",
+    "Place frozen banana slices, frozen strawberries, heavy cream (or coconut milk), and a splash of vanilla extract INTO a blender.",
+    "Blend UNTIL smooth, creamy, and ice-cream-like.",
+    "Serve immediately for soft-serve texture."
+  ],
+  "output": "A quick, creamy, and naturally sweet ice cream made from frozen fruit — healthy, refreshing, and ready in minutes.",
+  "tip": "Use frozen fruit to skip prep time. You can also swap strawberries for mango, blueberries, or mixed berries."
+},
+{
+  "slug": "kruidennoten",
+  "title": "Kruidennoten (Dutch Spiced Cookie Bites)",
+  "image": "kruidennoten.jpg",
+  "imageAlt": "Kruidennoten",
+  "category": [
+    "easy",
+    "baking-desserts"
+  ],
+  "ingredients": [
+    "250 g flour",
+    "2 tsp baking powder",
+    "125 g brown sugar",
+    "1½ tbsp speculaas spice mix",
+    "125 g butter, room temperature",
+    "1/4 tsp salt",
+    "2–3 tbsp milk"
+  ],
+  "optional": {
+    "label": "HOMEMADE SPECULAAS SPICE MIX",
+    "items": [
+      "8 tsp ground cinnamon",
+      "2 tsp ground cloves",
+      "2 tsp ground nutmeg",
+      "1 tsp ground coriander seed",
+      "1 tsp ground anise seed",
+      "1 tsp ginger powder",
+      "3/4 tsp ground cardamom"
+    ]
+  },
+  "steps": [
+    "Place flour, baking powder, brown sugar, speculaas spices, butter, and salt INTO a bowl.",
+    "Knead UNTIL a dough forms. Add milk as needed (usually 2 tbsp) UNTIL dough comes together.",
+    "Do NOT over-knead. Shape dough INTO a ball, wrap in plastic, and refrigerate ≥ 30 minutes.",
+    "Preheat oven to 180°C. Line baking tray with parchment paper.",
+    "Roll small balls of dough (marble-sized) and place on tray. Press lightly to flatten.",
+    "Bake 15–20 minutes UNTIL golden and crisp.",
+    "Cool completely on a wire rack."
+  ],
+  "output": "Small, crunchy Dutch spiced cookie bites with warm speculaas flavors — perfect for Sinterklaas season or cozy snacking.",
+  "tip": "Use homemade speculaas spice mix for deeper flavor. For an easier version, use pre-mixed spices and make the dough ahead of time."
+},
+{
+  "slug": "kruidnoten-cheesecake",
+  "title": "Kruidnoten Cheesecake",
+  "image": "pepernotencheesecake.jpg",
+  "imageAlt": "Kruidnoten cheesecake",
+  "category": [
+    "baking-desserts"
+  ],
+  "ingredients": [
+    "240 g kruidnoten (or speculaas cookies)",
+    "100 g unsalted butter",
+    "600 g cream cheese (Philadelphia)",
+    "180 g granulated sugar",
+    "4 medium eggs",
+    "125 g sour cream",
+    "1 tsp vanilla extract",
+    "20 g flour",
+    "4 tsp speculaas spice mix",
+    "175 g kruidnoten (for folding into the batter)",
+    "Extra kruidnoten (for topping)",
+    "Toasted almond flakes (optional)"
+  ],
+  "optional": {
+    "label": "HOMEMADE SPECULAAS SPICE MIX",
+    "items": [
+      "8 tsp ground cinnamon",
+      "2 tsp ground cloves",
+      "2 tsp ground nutmeg",
+      "1 tsp ground coriander seed",
+      "1 tsp ground anise seed",
+      "1 tsp ginger powder",
+      "3/4 tsp ground cardamom"
+    ]
+  },
+  "steps": [
+    "Ensure all ingredients are at room temperature before starting — this improves cheesecake texture.",
+    "Prepare the crust: finely grind kruidnoten and melt butter. Mix UNTIL a crumbly, sticky mixture forms.",
+    "Press mixture firmly INTO a 24 cm springform lined with parchment paper.",
+    "Make the cheesecake batter: beat cream cheese + sugar UNTIL smooth and creamy.",
+    "Add eggs one at a time, mixing UNTIL incorporated.",
+    "Add sour cream + vanilla extract. Mix UNTIL smooth.",
+    "Fold flour + speculaas spices INTO the batter.",
+    "Fold 175 g kruidnoten INTO the batter.",
+    "Pour batter over the crust and smooth the top.",
+    "Bake at 150°C for 60 minutes (top/bottom heat).",
+    "Turn off the oven, leave the door slightly open, and let the cheesecake cool slowly.",
+    "When only slightly warm, cover with foil and refrigerate overnight to set.",
+    "Before serving, top with kruidnoten and optional toasted almond flakes. Add toppings only at serving time to prevent them from becoming soft."
+  ],
+  "output": "A creamy, spiced cheesecake with a crunchy kruidnoten crust and warm speculaas flavors — perfect for festive occasions.",
+  "storage": [
+    "Keep refrigerated for 3–4 days.",
+    "Toppings may soften over time; add them just before serving.",
+    "Freezer-safe (without toppings) for up to 3 months."
+  ],
+  "tip": "For best texture, bring all ingredients to room temperature before mixing. Add kruidnoten topping only at serving time to keep them crunchy."
+},
+
+
+{
+  "slug": "strawberry-cheesecake",
+  "title": "Strawberry Cheesecake",
+  "image": "strawberrycheesecake.jpg",
+  "imageAlt": "Strawberry cheesecake",
+  "category": [
+        "baking-desserts"
+  ],
+  "ingredients": [
+    "300 g Bastogne cookies (or similar spiced cookies)",
+    "100 g unsalted butter",
+    "600 g cream cheese (Philadelphia)",
+    "180 g granulated sugar",
+    "4 medium eggs",
+    "125 g sour cream",
+    "1 tsp vanilla extract",
+    "20 g flour",
+    "2–3 tbsp strawberry jam (optional, for swirling into the batter)",
+    "Fresh strawberries (for topping)"
+  ],
+  "steps": [
+    "Ensure all ingredients are at room temperature before starting — this improves cheesecake texture.",
+    "Prepare the crust: finely grind Bastogne cookies and melt butter. Mix UNTIL a crumbly, sticky mixture forms.",
+    "Press mixture firmly INTO a 24 cm springform lined with parchment paper.",
+    "Make the cheesecake batter: beat cream cheese + sugar UNTIL smooth and creamy.",
+    "Add eggs one at a time, mixing UNTIL incorporated.",
+    "Add sour cream + vanilla extract. Mix UNTIL smooth.",
+    "Fold flour INTO the batter.",
+    "OPTIONAL: Swirl 2–3 tbsp strawberry jam INTO the batter for extra flavor.",
+    "Pour batter over the crust and smooth the top.",
+    "Bake at 150°C for 60 minutes (top/bottom heat).",
+    "Turn off the oven, leave the door slightly open, and let the cheesecake cool slowly.",
+    "When only slightly warm, cover with foil and refrigerate overnight to set.",
+    "Before serving, top generously with fresh strawberries."
+  ],
+  "output": "A creamy, smooth cheesecake with a Bastogne cookie crust and fresh strawberry topping — perfect for summer gatherings or a festive dessert.",
+  "storage": [
+    "Keep refrigerated for 3–4 days.",
+    "Add fresh strawberries just before serving for best texture.",
+    "Freezer-safe (without topping) for up to 3 months."
+  ],
+  "tip": "For a stronger strawberry flavor, swirl strawberry jam through the batter before baking. Add fresh strawberries only at serving time to keep them firm."
 }
+
 
 
 ]
