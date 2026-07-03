@@ -5,7 +5,7 @@ import { ViteImageOptimizer } from 'vite-plugin-image-optimizer'
 import { resolve } from 'path'
 
 const base = process.env.VITE_BASE ?? '/Kristys_Cooking_Adventures/'
-console.log('🔍 BASE IS:', base)
+const outDir = process.env.VITE_BASE ? 'dist' : 'docs'
 
 export default defineConfig({
   base,
@@ -31,9 +31,9 @@ export default defineConfig({
     }),
   ],
 
-  build: {
-    outDir: 'docs',
-    emptyOutDir: true,
+ build: {
+  outDir,
+  emptyOutDir: true,
     rollupOptions: {
       input: {
         index: resolve(__dirname, 'index.html'),
@@ -58,6 +58,8 @@ export default defineConfig({
         vildsvinStamppotWortels: resolve(__dirname, 'recipe/vildsvin-stamppot-wortels.html'),
         vildsvinribRedCabbage: resolve(__dirname, 'recipe/vildsvinrib-red-cabbage.html'),
         wrapPizza: resolve(__dirname, 'recipe/wrap-pizza.html'),
+        orzoSmokedSalmonVegetables: resolve(__dirname, 'recipe/orzo-smoked-salmon-vegetables.html'),
+        gnocchiBaconVegetables: resolve(__dirname, 'recipe/gnocchi-bacon-vegetables.html'),
 
         bakingDesserts: resolve(__dirname, 'categories/baking-desserts.html'),
         easy: resolve(__dirname, 'categories/easy.html'),
