@@ -851,5 +851,50 @@
     ],
     "tip": "Highly customizable — use any toppings you like: ham, chicken, mushrooms, olives, corn, spinach, pineapple, different cheeses, or extra vegetables.",
     "output": "A quick, crispy homemade wrap pizza with simple tomato sauce and your favorite toppings — perfect for a fast lunch or easy dinner."
-  }
+  },
+
+{
+  "slug": "orzo-smoked-salmon-vegetables",
+  "title": "Orzo with Smoked Salmon and Vegetables",
+  "image": "salmonorzo.jpg",
+  "imageAlt": "Orzo with smoked salmon and vegetables",
+  "category": [
+    "easy",
+    "main-dishes"
+  ],
+  "ingredients": [
+    "500 g orzo",
+    "400 g smoked salmon (or any preferred protein)",
+    "Vegetables of choice (fresh or frozen)",
+    "1 onion, chopped",
+    "2 garlic cloves, minced",
+    "1–2 carrots, sliced",
+    "1 zucchini, diced",
+    "1 bell pepper, diced",
+    "Cooking oil",
+    "1 tub garlic herb cream cheese",
+    "Cooking cream (optional)",
+    "Italian herbs",
+    "Paprika powder",
+    "Black pepper"
+  ],
+  "steps": [
+    "Finely chop the onion, garlic, carrots, zucchini, and bell pepper. Cut smoked salmon INTO bite-sized pieces.",
+    "Heat a little oil in a pan. Add onion + garlic and cook UNTIL fragrant.",
+    "Add carrots. Cook a few minutes UNTIL they begin to soften.",
+    "Add bell pepper + zucchini. Cook UNTIL vegetables are tender.",
+    "Meanwhile, cook orzo in a separate pot according to package instructions.",
+    "Season vegetables with Italian herbs, paprika powder, and black pepper.",
+    "Add garlic herb cream cheese. Stir UNTIL melted and creamy. OPTIONAL: Add cooking cream for a richer sauce.",
+    "Let mixture simmer a few minutes UNTIL flavors combine.",
+    "Add smoked salmon. Cook briefly UNTIL warmed through (do NOT overcook).",
+    "Drain orzo. Add a splash of pasta cooking water to the vegetable pan if needed.",
+    "Combine orzo with the vegetable-salmon mixture. Stir UNTIL evenly coated.",
+    "OPTIONAL: Top with grated cheese before serving."
+  ],
+  "output": "A creamy, flavorful orzo dish with smoked salmon and colorful vegetables — easy, comforting, and perfect for busy evenings.",
+  "tip": "Use frozen vegetables to save time — no chopping needed. You can also swap salmon for chicken or minced meat; just cook those earlier in the process."
+}
+
+
 ]
