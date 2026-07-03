@@ -140,3 +140,5 @@ for (const category of categories) {
   const key = category.slug.replace(/-([a-z])/g, (_, c) => c.toUpperCase());
   console.log(`        ${key}: resolve(__dirname, 'categories/${category.slug}.html'),`);
 }
+
+
