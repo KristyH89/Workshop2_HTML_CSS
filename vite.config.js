@@ -5,7 +5,7 @@ import { ViteImageOptimizer } from 'vite-plugin-image-optimizer'
 import { resolve } from 'path'
 
 const base = process.env.VITE_BASE ?? '/Kristys_Cooking_Adventures/'
-console.log('BASE IS:', base)
+console.log('🔍 BASE IS:', base)
 
 export default defineConfig({
   base,
