@@ -9,7 +9,7 @@ With this website, I want to showcase some of my cooking skills while practicing
 
 The original workshop instructions are included below this report. I used them as a guideline and followed each step carefully while developing the project.
 
-Go to [https://kristyh89.github.io/Kristys_Cooking_Adventures)](https://kristyh89.github.io/Kristys_Cooking_Adventures/) or go to https://kristys-cooking-adventures.vercel.app/ to view the result. I will keep adding recipies to the website. 
+Go to https://kristys-cooking-adventures.vercel.app/ to view the result. I will keep adding recipies to the website. 
 
 ---
 
